@@ -1,3 +1,4 @@
+clear;
 v0 = 1;
 tau = 0.02;
 fun_type = 1;

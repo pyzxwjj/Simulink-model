@@ -1,7 +1,4 @@
-% HH parameters.m
-% Murat Saglam 22.4.2008
-% Parameters for Hodgkin-Huxley equations
-clear
+clear;
 gK=36; gNa=120; gL=0.3;      % channel conductances: mS/cm2
 EK=-12; ENa=115; EL=10.613;  % channel reversal potentials: mV 
 n0=0; m0=0; h0=1;            % initial rates: (unitless)

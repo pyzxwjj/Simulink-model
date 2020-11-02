@@ -1,3 +1,4 @@
+clear;
 Roff = 16e3;
 Ron = 100;
 Rinit = 11e3;
